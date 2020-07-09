@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **amotion/amotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> He cuute, he got snoot, but most importantly.. He commute
+
+![He cuute, he got snoot, but most importantly.. He commute](https://i.imgur.com/dcNV1vC.jpg)
+
+### Catch me online
+
+- 🐦 [@amotion](https://twitter.com/amotion)
+- 🖼 [@amotion](https://instagram.com/amotion)
